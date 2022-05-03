@@ -129,7 +129,7 @@
       text-transform: uppercase;
       font-size: 30px;
       text-align: center;
-      box-sizing: border-box; /* задали внутренний фокус элемента, чтобы контейнер не расширялся */
+      box-sizing: border-box; /* задали !внутренний фокус элемента, чтобы контейнер не расширялся */
       padding: 20px;
       opacity: 0;
   }
